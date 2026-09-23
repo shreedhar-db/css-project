@@ -1,0 +1,84 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1,ul,li{
+    display: inline;
+}
+
+ul{
+    padding-left: 60%;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+li{
+    color: gray;
+}
+
+li:hover{
+    color: green;
+    cursor: pointer;
+}
+
+input{
+    width: 500px;
+   padding: 10px;
+    margin: 20px;
+  
+}
+.one{
+     text-align: center;
+     padding: 20px;
+}
+
+.box{
+    width: 200px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  display: inline-block;
+ 
+}
+
+.box:hover{
+    color: brown;
+    cursor: pointer;
+}
+.two{
+   text-align: center;
+}
+
+.vera{
+   display: block;
+   padding: 15px;
+ 
+    
+}
+
+.vera:hover{
+      cursor: pointer;
+    color:blueviolet
+}
+
+.venum{
+    text-align: center;
+    margin: 10px;
+
+}
+
+   
+.fixed{
+ text-align: center;
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+
+}
